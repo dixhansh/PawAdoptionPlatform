@@ -1,3 +1,6 @@
 [submodule "PawAdoption_Backend"]
 	path = PawAdoption_Backend
 	url = https://github.com/dixhansh/PawAdoption_Backend.git
+[submodule "PawAdoption_Frontend"]
+	path = PawAdoption_Frontend
+	url = https://github.com/dixhansh/PawAdoption_Frontend.git
